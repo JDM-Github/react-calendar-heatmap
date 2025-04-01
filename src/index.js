@@ -10,7 +10,7 @@ import {
   getRange,
 } from './helpers';
 
-const SQUARE_SIZE = 10;
+const SQUARE_SIZE = 20;
 const MONTH_LABEL_GUTTER_SIZE = 4;
 const CSS_PSEDUO_NAMESPACE = 'react-calendar-heatmap-';
 

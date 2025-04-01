@@ -1,5 +1,5 @@
 {
-  "name": "react-calendar-heatmap",
+  "name": "jdm-react-calendar-heatmap",
   "version": "1.10.0",
   "description": "A calendar heatmap component built on SVG, inspired by Github's commit calendar graph.",
   "author": "Kevin Qi",
